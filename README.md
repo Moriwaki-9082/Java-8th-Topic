@@ -1,1 +1,1 @@
-# Java-8th-Topic
+Javaコース第8回課題になります。
